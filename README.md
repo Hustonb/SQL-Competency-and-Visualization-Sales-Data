@@ -8,7 +8,7 @@ The premise of this project is that a blogger’s online store has reached out t
 
 ### Chronological Project Process:
 1. Customer provided database requirements (required fields for different tables and products which her shop will be selling), and questions to be answered in the visualization.
-2. Designed database schema to fit customer needs: (https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/SalesDBSchema.png ) 
+2. Designed database schema to fit customer needs: [SalesDBSchema.png](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/SalesDBSchema.png ) 
 3. Generated sample data using AI tools to populate the Orders, Customers, and Storage tables (Products were provided by customer).
 4. Created SQL database in MySQL, and inserted records: https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/PopulateTables.sql 
 5. Performed EDA in SQL to demonstrate SQL proficiency and gain insight into customer questions: https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/AllEDA.sql 
