@@ -1,4 +1,4 @@
-# SQL Competency and Visualization of Online Shop Data
+# SQL Competency and Visualization of Online Shop Data.
 Final Product, Tableau Dashboard: https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes 
 
 Project Description and Motivation:
