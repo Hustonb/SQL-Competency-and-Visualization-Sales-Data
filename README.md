@@ -12,4 +12,8 @@ The premise of this project is that a blogger’s online store has reached out t
 3. Generated sample data using AI tools to populate the Orders, Customers, and Storage tables (Product records were provided by customer).
 4. Created SQL database in MySQL, and inserted records: [PopulateTables.sql](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/PopulateTables.sql)
 5. Performed EDA in SQL to demonstrate SQL proficiency and gain insight into customer questions: [AllEDA.sql](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/AllEDA.sql)
-6. Created Tableau dashboard to visualize KPIs and trends for customer: https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes 
+6. Created Tableau dashboard to visualize KPIs and trends for customer: https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes
+
+### References:
+1. https://generatedata.com/generator
+2. https://www.quickdatabasediagrams.com/ 
