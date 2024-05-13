@@ -4,7 +4,7 @@ https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashb
 
 ### Project Description and Motivation:
 This project showcases my proficiency in SQL for database design and exploratory data analysis, as well as my data visualization skills in Tableau. 
-The premise of this project is that a blogger’s online store has reached out to me to take care of their data modeling needs. The website isn’t up and running yet, but the user has a list of fields and tables that they will need included in the data model. The user is also requesting that an interactive dashboard is made showing key metrics for her business. The inspiration for this project is my girlfriend’s blog, which she’s in the process of getting up and running.
+The premise of this project is that a blogger’s online store has reached out to me to take care of their data modeling needs. The website isn’t up and running yet, but the user has a list of fields and tables that they will need included in the data model. The user is also requesting that an interactive dashboard is made showing key metrics for her business. The inspiration for this project is my girlfriend’s blog, which she’s in the process of launching.
 
 ### Project Process:
 1. Customer provided database requirements (fields for different tables and products which her shop will be selling), and questions to be addressed in the visualization.
