@@ -7,7 +7,7 @@ This project showcases my proficiency in SQL for database design and exploratory
 The premise of this project is that a blogger’s online store has reached out to me to take care of their data modeling and visualization needs. The website isn’t up and running yet, but the user has a list of fields and tables that they will need included in the data model. The user is also requesting that an interactive dashboard is made showing key metrics for her business. The inspiration for this project is my girlfriend’s blog, which she’s in the process of launching.
 
 ### Project Process:
-1. Customer provided database requirements (fields for different tables and products which her shop will be selling) and questions to be addressed in the visualization.
+1. Customer provided database requirements (fields for different tables and a list of products which her shop will be selling) and questions to be addressed in the visualization.
 2. Designed database schema to fit customer needs: [SalesDBSchema.png](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/SalesDBSchema.png ) 
 3. Generated sample data using AI tools to populate the Orders, Customers, and Storage tables (Product table records were provided by customer).
 4. Created SQL database in MySQL, and inserted records: [PopulateTables.sql](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/PopulateTables.sql)
