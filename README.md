@@ -14,6 +14,9 @@ The premise of this project is that a blogger’s online store has reached out t
 5. Performed EDA in SQL to demonstrate SQL proficiency and gain insight into customer's questions: [AllEDA.sql](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data/blob/main/AllEDA.sql)
 6. Created Tableau dashboard to visualize KPIs and trends: https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes
 
+### Installing and Executing Scripts:
+To run the SQL scripts for yourself, download the two scripts in this repository. Run PopulateTables.SQL in order to create the tables and fill them with data. Then run the different queries in this script to gain insight into the data.
+
 ### References:
 1. https://generatedata.com/generator
 2. https://www.quickdatabasediagrams.com/ 
