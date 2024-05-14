@@ -15,7 +15,7 @@ The premise of this project is that a blogger’s online store has reached out t
 6. Created Tableau dashboard to visualize KPIs and trends: https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes
 
 ### Installing and Executing Scripts:
-To run the SQL scripts for yourself, download the two scripts in this repository. First, run PopulateTables.SQL in order to create the tables and fill them with data. Then run the different queries in the ALLEDA.sql script to gain insight into the data.
+To run the SQL scripts for yourself, download the two scripts in this repository. First, run PopulateTables.sql in order to create the tables and fill them with data. Then, run the different queries in the ALLEDA.sql script to gain insight into the data.
 
 ### References:
 1. https://generatedata.com/generator
